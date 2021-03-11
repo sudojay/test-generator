@@ -16,7 +16,7 @@
 - tkFileDialog: The tkFileDialog module can be used to get a filename from the user. The module provides two convenience functions, one to get an existing filename so you can open it, and one to get a new filename, to save things into.
 - askopenfilename(): The askopenfilename() method returns a string which is the path of the file selected by the user. If the user decides to hit Cancel, an empty string is returned. 
 - filetypes: The argument to filetypes is a list of 2-element tuples. In each tuple, the first element is a string which is any description we want to set for each of the file types. The second element is where we state or list the file extensions associated with each file type.
-1. **Pandas:** Pandas is a Python package providing fast, flexible, and expressive data structures designed to make working with structured (tabular, multidimensional, potentially heterogeneous) and time series data both easy and intuitive.
+2. **Pandas:** Pandas is a Python package providing fast, flexible, and expressive data structures designed to make working with structured (tabular, multidimensional, potentially heterogeneous) and time series data both easy and intuitive.
 - read\_excel():** The method read\_excel() reads the data into a Pandas Data Frame, where the first parameter is the filename and the second parameter is the sheet.
 - DataFrame: Pandas DataFrame is two-dimensional size-mutable, potentially heterogeneous tabular data structure with labelled axes (rows and columns). A Data frame is a two-dimensional data structure, i.e., data is aligned in a tabular fashion in rows and columns. Pandas DataFrame consists of three principal components, the data, rows, and columns.
 - sample(): Returns a random sample of items from an axis of object.
