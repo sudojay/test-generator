@@ -2,7 +2,7 @@
 
 **Introduction:**
 
-`	`Test Generator is a desktop-based application made entirely using Python 3.7. It automates the task of manually setting a question paper and also generates an answer key for the same. The user will be able to generate unique set of questions from the same Excel file.
+  Test Generator is a desktop-based application made entirely using Python 3.7. It automates the task of manually setting a question paper and also generates an answer key for the same. The user will be able to generate unique set of questions from the same Excel file.
 
 **Libraries used:**
 
@@ -29,4 +29,4 @@
 
 **Conclusion:**
 
-`	`The objective to build a Test Generator was successfully achieved. In terms of performance and efficiency, this project has provided a convenient method of generating question paper and their significant answer key. By using Pandas, the data is more organized. This application is also a user-friendly system as data collection, manipulation and presentation is done behind the interface. The question paper and the answer key once generated is stored in “.txt” files and then  automatically opens both the files. 
+  The objective to build a Test Generator was successfully achieved. In terms of performance and efficiency, this project has provided a convenient method of generating question paper and their significant answer key. By using Pandas, the data is more organized. This application is also a user-friendly system as data collection, manipulation and presentation is done behind the interface. The question paper and the answer key once generated is stored in “.txt” files and then  automatically opens both the files. 
